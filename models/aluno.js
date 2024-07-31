@@ -22,8 +22,8 @@ export const Aluno = connection.define("aluno", {
     },
 })
 
-Aluno.hasOne(Endereco);
+Aluno.hasOne(Endereco, {onDelete: "CASCADE"});
 Endereco.belongsTo(Aluno);
 
-Aluno.hasMany(Treino);
+Aluno.hasMany(Treino, {onDelete: "CASCADE"});
 Treino.belongsTo(Aluno);
