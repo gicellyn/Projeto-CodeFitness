@@ -27,3 +27,4 @@ Endereco.belongsTo(Aluno);
 
 Aluno.hasMany(Treino, {onDelete: "CASCADE"});
 Treino.belongsTo(Aluno);
+
