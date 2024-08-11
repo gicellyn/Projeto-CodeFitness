@@ -11,6 +11,11 @@ A CodeFitness é uma empresa fictícia para a apresentação de projeto da ativi
 - A entrega deverá ser via Github;
 - A estrutura de arquivos e diretórios deve seguir os padrões solicitados em aula.
 
+## Comandos para rodar o projeto
+- npm install node
+- npm install
+- npm install cors
+- npm run dev
 
 ## Considerações finais
 Concluímos com sucesso essa primeira etapa de projeto backend baseado em ExpressJS para a realização de CRUDs, que não apenas aprimorou nossas habilidades técnicas, mas também fortaleceu significativamente a dinâmica de nossa equipe. Ao longo deste projeto, [Thiago Luz](https://github.com/thiagoluznascimento), [Gicelly Nayara](https://github.com/gicellyn) e [Guilherme Candini](https://github.com/GuiCandini), trabalhamos em conjunto para alcançar nossos objetivos e entregar um projeto de qualidade.
